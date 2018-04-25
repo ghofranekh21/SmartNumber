@@ -1,0 +1,14 @@
+.number-container {
+  display: flex;
+}
+.number-button {
+  background-color: transparent;
+  border: 2px solid black;
+}
+.number-value {
+  min-width: 40px;
+  padding: 0 5px;
+  text-align: center;
+  border: solid black;
+  border-width: 2px 0;
+}

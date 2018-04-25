@@ -1,2 +1,0 @@
-# SmartNumber
-Created with CodeSandbox
